@@ -1,6 +1,6 @@
 # Carbnb: Multi-Vendor Car Rental Platform
 
-A modern, AI-ready, multi-vendor car rental platform built with Django 5.2 and Bootstrap.
+A modern, multi-vendor car rental platform built with Django 5.2 and Bootstrap.
 
 ## Features
 - Multi-vendor system: Vendor registration, car listings, dashboard
